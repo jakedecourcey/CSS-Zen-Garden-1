@@ -2,4 +2,4 @@
 
 ####By Jacob DeCourcey
 
-[http://www.csszengarden.com/]
+http://www.csszengarden.com/
